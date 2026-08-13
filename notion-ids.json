@@ -1,0 +1,83 @@
+{
+  "workspace": {
+    "id": "0e9d8df1-89b0-4293-8639-eb2e817df1f9",
+    "name": "Notion de João",
+    "user_id": "5bc77cfd-511f-4fc4-bd28-aed437c1e862"
+  },
+  "timezone": "America/Maceio",
+  "central_page_id": "3bacf3ce-89e9-81d7-964a-f0a20b05f064",
+  "central_page_url": "https://app.notion.com/p/3bacf3ce89e981d7964af0a20b05f064",
+  "vitrine_page_id": "3bacf3ce-89e9-8198-9dc0-c0f5fdc63949",
+  "vitrine_page_url": "https://app.notion.com/p/3bacf3ce89e981989dc0c0f5fdc63949",
+  "databases": {
+    "diario": {
+      "nome": "📅 Diário",
+      "database_id": "36ab0452-cade-4206-a31b-1c0a9ce1ed3f",
+      "data_source_id": "472cbdd4-faa7-403d-b0df-137b42e6bfdb",
+      "url": "https://app.notion.com/p/36ab0452cade4206a31b1c0a9ce1ed3f",
+      "views": {
+        "hoje": "3bacf3ce-89e9-81de-ac71-000c92e80b18",
+        "semana_board": "3bacf3ce-89e9-8165-ad26-000cdd847d14",
+        "historico": "3bacf3ce-89e9-818f-97bf-000cd003bc8b",
+        "calendario": "3bacf3ce-89e9-81bf-b511-000c68ec17e7",
+        "evolucao": "3bacf3ce-89e9-8108-9a6f-000c09156031"
+      }
+    },
+    "musculacao": {
+      "nome": "🏋️ Musculação",
+      "database_id": "c8678736-7058-4bb6-a647-d7b8b4f15e6a",
+      "data_source_id": "12e4093a-51f4-4d77-9ddd-0eb42a82fed3",
+      "url": "https://app.notion.com/p/c867873670584bb6a647d7b8b4f15e6a"
+    },
+    "cardio": {
+      "nome": "🏃 Cardio",
+      "database_id": "b1f0b83d-ff01-46d1-aff4-bfc0b012e548",
+      "data_source_id": "fe02b7a6-33b9-446d-a436-388455042c2e",
+      "url": "https://app.notion.com/p/b1f0b83dff0146d1aff4bfc0b012e548"
+    },
+    "jiujitsu": {
+      "nome": "🥋 Jiu-Jitsu",
+      "database_id": "12b649b4-1d7a-49bb-b5f8-73896d9e1c21",
+      "data_source_id": "63935e4b-8e67-4867-8b7f-4e5032fe5cb0",
+      "url": "https://app.notion.com/p/12b649b41d7a49bbb5f873896d9e1c21"
+    },
+    "estudos": {
+      "nome": "📚 Estudos",
+      "database_id": "5c67a673-7809-4549-a106-e58d0041e474",
+      "data_source_id": "86e43dd8-9a3b-4c17-a73f-1f2f9e14a7b1",
+      "url": "https://app.notion.com/p/5c67a67378094549a106e58d0041e474"
+    },
+    "financeiro": {
+      "nome": "💰 Financeiro",
+      "database_id": "6c275062-1991-4516-b287-191f2fd5747b",
+      "data_source_id": "6254e917-b2a6-41d9-8de7-58f3fd51a608",
+      "url": "https://app.notion.com/p/6c27506219914516b287191f2fd5747b",
+      "views": {
+        "este_mes": "3bacf3ce-89e9-8194-8338-000c0c77474a",
+        "saidas_por_categoria": "3bacf3ce-89e9-8173-8ec5-000c0ba18bfc",
+        "por_centro": "3bacf3ce-89e9-815e-bc84-000c47f513b5",
+        "a_pagar": "3bacf3ce-89e9-81c0-ad1a-000c82fcd936",
+        "recorrentes": "3bacf3ce-89e9-817e-80ed-000ca0d6de4e"
+      }
+    },
+    "semanas": {
+      "nome": "📊 Semanas",
+      "database_id": "a359862a-db22-457c-8bf7-ba051d477c14",
+      "data_source_id": "7df6d690-d699-4c97-b2f7-4a87440d9dce",
+      "url": "https://app.notion.com/p/a359862adb22457c8bf7ba051d477c14"
+    },
+    "metas": {
+      "nome": "🎯 Metas",
+      "database_id": "811f737e-b4cd-44ed-ae1c-f6de5606e829",
+      "data_source_id": "575701b8-d66b-4d39-ae5b-b606c3be3de4",
+      "url": "https://app.notion.com/p/811f737eb4cd44edae1cf6de5606e829"
+    },
+    "relatorios": {
+      "nome": "📝 Relatórios",
+      "database_id": "1ae338ac-535b-4ce4-b768-5afe6bbdf174",
+      "data_source_id": "c9134723-7a51-47ce-aba2-a393cf4653cc",
+      "url": "https://app.notion.com/p/1ae338ac535b4ce4b7685afe6bbdf174"
+    }
+  },
+  "gerado_em": "2026-08-12T15:30:00-03:00"
+}
